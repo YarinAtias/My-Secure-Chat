@@ -7,6 +7,6 @@ as you'd like to by just running the client file on a different console.
 
 Notice: If you're trying to run it please make sure to download additional libraries if needed.
 in order to run this line in the client file: 'from Cryptodome.Cipher import AES' 
-please write this in the console: 'pip install pycryptodomex'
+please write the following in the console: 'pip install pycryptodomex'
 
 Enjoy :)
